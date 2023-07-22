@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my music app**
 
-- 🌱 I’m currently learning **nextjs**
+- 🌱 I’m currently learning **nextjs** and **c++**
 
 - 📫 How to reach me **chrismin@bu.edu**
 
