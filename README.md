@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Christopher Min</h1>
 <h3>I'm a student at Boston University studying Computer Science and Business Administration!</h3>
 
-- 🔭 I’m currently learning on *embedded systems**
+- 🔭 I’m currently learning on **embedded systems**
 
 - 🌱 I’m currently learning **c++**
 
