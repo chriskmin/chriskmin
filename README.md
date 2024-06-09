@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **embedded systems**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **chrismin@bu.edu**
 
